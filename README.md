@@ -23,3 +23,5 @@ My name is Nico. I'm currently studying at the HTL Donaustadt and I'm mainly int
 - [4th Place](https://register.codingcontest.org/contest/4095/results?hostId=6) in the Cloudflight Coding School Contest in 2021
 - [1st Place](https://www.youtube.com/watch?v=6iP8rWeM4I4&t=3677s&ab_channel=AtosBusinessTechnology%26Innovation) in the ATOS HTL Hackathon in 2022
 - [3rd Place](https://register.codingcontest.org/contest/4639/results?hostId=6) in the Cloudflight Coding School Contest in 2022
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nico-src?cardType=level&theme=github-dark&preferLogin=false&Text=DDDDDD)](https://git.io/awesome-stats-card)
