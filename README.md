@@ -2,7 +2,7 @@
 
 My name is Nico. I'm currently studying at the HTL Donaustadt and I'm mainly interested in web development, but I also have experience in other languages like C#, Java, C++ (with OpenGL) or Python.
 
-- 🔭 I'm currently working on a private project called MangaLib, a web application to manage one's manga/comic collection and exchange with other users, etc...
+- 🔭 I'm currently working on a private project called MangaLib, a web application to browse through a huge global manga database and manage one's manga/comic collection and exchange with other users, etc...
 
 ### Skills / Technologies 🎯
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
