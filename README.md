@@ -7,7 +7,7 @@ Software Engineer
 I recently finished my final exam at HTL Donaustadt and I'm mainly interested in web development, but I also have experience in other languages like C#, Java.
 
 * 🌍  I'm based in Austria, Vienna
-* 🖥️  See my portfolio at [https://nico-src.github.io/VS-Code-Portfolio]([http://nico-src.github.io/](https://nico-src.github.io/VS-Code-Portfolio/))
+* 🖥️  See my portfolio at [https://nico-src.github.io/VS-Code-Portfolio](https://nico-src.github.io/VS-Code-Portfolio/)
 * ✉️  You can contact me at [nico.thuniot@gmx.at](mailto:nico.thuniot@gmx.at)
 * 🚀  I'm currently working on [MangaDB](http://youtube.com/watch?v=45Tm-hqtGOU&t=26s)
 * 🧠  I'm learning Nuxt3
