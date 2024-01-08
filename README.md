@@ -10,7 +10,7 @@ I recently finished my final exam at HTL Donaustadt and I'm mainly interested in
 * 🖥️  See my portfolio at [https://nico-src.github.io/VS-Code-Portfolio](https://nico-src.github.io/VS-Code-Portfolio/)
 * ✉️  You can contact me at [nico.thuniot@gmx.at](mailto:nico.thuniot@gmx.at)
 * 🚀  I'm currently working on [MangaDB](http://youtube.com/watch?v=45Tm-hqtGOU&t=26s)
-* 🧠  I'm learning Nuxt3
+* 🧠  I'm learning Unity VFX Graph
 
 ### Skills
 
