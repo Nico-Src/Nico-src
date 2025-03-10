@@ -9,8 +9,8 @@ I recently finished my final exam at HTL Donaustadt and I'm mainly interested in
 * 🌍  I'm based in Austria, Vienna
 * 🖥️  See my portfolio at [https://nico-src.github.io/portfolio](https://nico-src.github.io/portfolio/)
 * ✉️  You can contact me at [nico.thuniot@gmx.at](mailto:nico.thuniot@gmx.at)
-* 🚀  I'm currently working on [MangaDB](http://youtube.com/watch?v=45Tm-hqtGOU&t=26s), Unity Firework Sim, Picross 3D Web
-* 🧠  I'm learning Unity VFX Graph
+* 🚀  I'm currently working on a rewrite of my project MangaDB. Specifically the frontend is being rewritten in Angular.
+* 🧠  I'm learning Angular at the moment
 
 ### Skills
 
