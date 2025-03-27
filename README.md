@@ -31,4 +31,4 @@ I recently finished my final exam at HTL Donaustadt and I'm mainly interested in
 
 <b>My GitHub Stats</b><br>
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nico-src?cardType=level&theme=github-dark&preferLogin=false&Text=DDDDDD)](https://git.io/awesome-stats-card)
-<a href="http://www.github.com/Nico-Src"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nico-Src&stroke=ffffff&background=181824&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Nico-Src"><img src="https://streak-stats.demolab.com?user=Nico-Src&theme=dark&hide_border=true&ring=22EB4B&currStreakLabel=22EB4B&fire=22EB4B"/></a>
